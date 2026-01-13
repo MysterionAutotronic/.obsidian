@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiTestTubeDiagonal",
+      "LiRouter",
+      "LiShipWheel",
+      "LiClipboard",
+      "🐋"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,22 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "301 CEHv13": "LiLockKeyhole",
+  "200 Bachelor": "LiUniversity",
+  "201 Master": "LiUniversity",
+  "202 TUM": "LiUniversity",
+  "300 Summaries": "LiNotepadText",
+  "101 OneNote": "⬇",
+  "100 OneNote Tagged": "⬇",
+  "300 Summaries/Architectures": "LiBuilding",
+  "300 Summaries/Frameworks": "LiFrame",
+  "300 Summaries/Languages": "LiLanguages",
+  "300 Summaries/Offsec": "LiLockKeyhole",
+  "300 Summaries/Ops": "LiGitGraph",
+  "300 Summaries/Ops/GitLab & GitOps.md": "LiGitlab",
+  "300 Summaries/Ops/Dockerfile.md": "🐋",
+  "000 Private": "LiClipboard",
+  "300 Summaries/Ops/Kubernetes": "LiShipWheel",
+  "300 Summaries/Ops/Kubernetes/Gateway API.md": "LiRouter"
 }

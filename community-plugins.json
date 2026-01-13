@@ -8,5 +8,8 @@
   "templater-obsidian",
   "frontmatter-modified-date",
   "obsidian-importer",
-  "janitor"
+  "janitor",
+  "obsidian-style-settings",
+  "copilot",
+  "novel-word-count"
 ]

@@ -8,32 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b77bef90ee0cc49a",
+            "id": "115baed20825c76b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "301 CEHv13/Module 01 (Basics)/Motives, Goals and Objectives of Attacks.md",
+                "file": "300 Summaries/Frameworks/Quarkus/05 Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motives, Goals and Objectives of Attacks"
+              "title": "05 Configuration"
             }
           },
           {
-            "id": "7b3dc9d84d0238de",
+            "id": "5b321cb2eb2597f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Exported image 20251001123752-0.png"
+                "file": "201 Master/Cloud Native Development/Project/Pitch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Exported image 20251001123752-0"
+              "icon": "lucide-file",
+              "title": "Pitch"
+            }
+          },
+          {
+            "id": "db247685380cf29a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guest Lecture on WiFi (4) - Security"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -45,7 +62,7 @@
       {
         "id": "1e5abe72f7a192bd",
         "type": "tabs",
-        "dimension": 77.10487444608567,
+        "dimension": 75.43103448275862,
         "children": [
           {
             "id": "2d8ad65aa99aefa8",
@@ -66,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:dns_spoofing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +107,12 @@
         ]
       },
       {
-        "id": "f4411c1ff4cda141",
+        "id": "5e25511ca4e12e02",
         "type": "tabs",
-        "dimension": 22.895125553914326,
+        "dimension": 24.568965517241377,
         "children": [
           {
-            "id": "a01e1b2c40f0e19a",
+            "id": "1f6c9200ce883147",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -117,6 +134,7 @@
       {
         "id": "9dfe01a51e420572",
         "type": "tabs",
+        "dimension": 64.18338108882521,
         "children": [
           {
             "id": "35688bf0f4acd366",
@@ -172,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "301 CEHv13/Module 01 (Basics)/Motives, Goals and Objectives of Attacks.md",
+                "file": "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Motives, Goals and Objectives of Attacks"
+              "title": "Outline of Guest Lecture on WiFi (4) - Security"
             }
           },
           {
@@ -193,10 +211,27 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "9653242bdcc5fa76",
+        "type": "tabs",
+        "dimension": 35.816618911174785,
+        "children": [
+          {
+            "id": "62bb87a61ca4de68",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,56 +246,58 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "janitor:Janitor: scan vault": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b77bef90ee0cc49a",
+  "active": "db247685380cf29a",
   "lastOpenFiles": [
-    "301 CEHv13/Module 01 (Basics)/Attacks.md",
-    "301 CEHv13/Module 01 (Basics)/Motives, Goals and Objectives of Attacks.md",
-    "301 CEHv13/Module 01 (Basics)/Basic Strategies, Frameworks and Lifecycles.md",
-    "301 CEHv13/Module 01 (Basics)/Threat Modelling.md",
-    "Attachments/Exported image 20251001123752-0.png",
-    "301 CEHv13/Module 01 (Basics)/Information Warfare.md",
-    "Attachments/Exported image 20251001123714-0.png",
-    "Attachments/Pasted image 20251120141409.png",
-    "301 CEHv13/Module 01 (Basics)/Information Assurance (IA).md",
-    "301 CEHv13/Module 01 (Basics)/Incident Management.md",
-    "Attachments/Exported image 20251001123756-1.png",
-    "Attachments/Pasted image 20251120140505.png",
-    "301 CEHv13/Module 01 (Basics)/Diamond Model of Intrusion Analysis.md",
-    "Attachments/Exported image 20251001123727-0.png",
-    "Attachments/Pasted image 20251120134610.png",
-    "301 CEHv13/Module 01 (Basics)/Defense-in-Depth.md",
-    "301 CEHv13/Module 01 (Basics)/Cyber Threat Intelligence (CTI) + Lifecycle (!).md",
-    "Attachments/Exported image 20251001123749-1.png",
-    "Attachments/Pasted image 20251120133213.png",
-    "Attachments/Pasted image 20251120133017.png",
-    "301 CEHv13/Module 01 (Basics)/Cyber Kill Chain.md",
-    "301 CEHv13/Module 01 (Basics)/Continual Adaptive Security Strategy.md",
-    "301 CEHv13/Module 01 (Basics)/Types of Attacks.md",
-    "200 Bachelor/IT Sicherheit/Notizen/12.06.md",
-    "200 Bachelor/IT Sicherheit/Tools/Angriffsvektoren.md",
-    "301 CEHv13/Board/Lab Questions.md",
-    "301 CEHv13/Board/ShellGPT Key.md",
-    "301 CEHv13/Board/Contact.md",
-    "301 CEHv13/Module 20 (Cryptography)/Countermeasures.md",
-    "301 CEHv13/Module 20 (Cryptography)/Cryptanalysis Methods and Cryptography Attacks.md",
-    "301 CEHv13/Module 20 (Cryptography)/1h 18min 48s.md",
-    "301 CEHv13/Module 20 (Cryptography)/Concepts and Algorithms.md",
-    "301 CEHv13/Module 20 (Cryptography)/Applications of Cryptography.md",
-    "301 CEHv13/Module 20 (Cryptography)",
-    "201 Master/ProjektInternetMeasurements/17.11..md",
-    "201 Master/ProjektInternetMeasurements/10.11..md",
-    "301 CEHv13/Module 19 (Cloud Computing)/Cloud Security.md",
-    "301 CEHv13/Module 19 (Cloud Computing)",
-    "301 CEHv13/Module 18 (IoT and OT Hacking)",
-    "201 Master/IT Consulting/Bonusaufgabe",
-    "201 Master/IT Consulting",
-    "Attachments/script-export.sh",
-    "Attachments/script-export",
-    "Attachments/out",
-    "Attachments/export-img.sh",
-    "201 Master/Cloud Native Development/Lecture"
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (3) - MAC Layer.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (2) - PHY Layer.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (1) - Architecture.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 5 - Cellular Networks.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 1 - Basics.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 2 - Security.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 3 - Security Architectures.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 4 - BGP Security.md",
+    "201 Master/Sicherheit Moderner Netze/Notes/OPNFV Talk.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/WiFi Q&A.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on Network Function Virtualization (NFV).md",
+    "201 Master/Sicherheit Moderner Netze/Exam Summary",
+    "201 Master/Cloud Native Development/Project/Focus Service.md",
+    "201 Master/ProjektInternetMeasurements/DNS.md",
+    "300 Summaries/Ops/Kubernetes/Gateway API.md",
+    "201 Master/ProjektInternetMeasurements/Docs/Frontend.md",
+    "201 Master/ProjektInternetMeasurements/Docs/Architecture.md",
+    "300 Summaries/Frameworks/Quarkus/05 Configuration.md",
+    "201 Master/ProjektInternetMeasurements/Docs/Auth.md",
+    "201 Master/ProjektInternetMeasurements/Docs/AuthFlow.md",
+    "201 Master/ProjektInternetMeasurements/3.11..md",
+    "201 Master/ProjektInternetMeasurements/Docs",
+    "201 Master/ProjektInternetMeasurements/Creds.md",
+    "201 Master/ProjektInternetMeasurements/API Schema Notes.md",
+    "201 Master/ProjektInternetMeasurements/24.11..md",
+    "400 Work/Pact.md",
+    "201 Master/IT Consulting/Vorlesung/1 - Einführung (TODO).md",
+    "400 Work",
+    "Attachments/Pasted image 20260109012726.png",
+    "Attachments/Pasted image 20260109012657.png",
+    "Attachments/Pasted image 20260109012615.png",
+    "Attachments/Pasted image 20260109012549.png",
+    "Attachments/Pasted image 20260109012414.png",
+    "Attachments/Pasted image 20260109012121.png",
+    "Attachments/Pasted image 20260109011955.png",
+    "Attachments/Pasted image 20260109011921.png",
+    "Attachments/Pasted image 20260109011642.png",
+    "201 Master/Big Data/Lecture/Data Management (Cato)",
+    "Attachments/Pasted image 20260109010443.png",
+    "300 Summaries/Testing",
+    "300 Summaries/Ops/Kubernetes",
+    "000 Private/Config",
+    "000 Private/Firmen",
+    "000 Private",
+    "300 Summaries/Languages/Java"
   ]
 }
