@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-pandoc",
   "dataview",
@@ -7,9 +6,11 @@
   "remotely-save",
   "templater-obsidian",
   "frontmatter-modified-date",
-  "obsidian-importer",
   "janitor",
   "obsidian-style-settings",
   "copilot",
-  "novel-word-count"
+  "novel-word-count",
+  "better-export-pdf",
+  "todo-highlighter",
+  "fast-text-color"
 ]

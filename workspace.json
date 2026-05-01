@@ -8,49 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "115baed20825c76b",
+            "id": "798eaff40689450d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Summaries/Frameworks/Quarkus/05 Configuration.md",
+                "file": "301 CEHv13/Module 17 (Hacking Mobile Platforms)/Android Threats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Configuration"
+              "title": "Android Threats"
             }
           },
           {
-            "id": "5b321cb2eb2597f4",
+            "id": "92cd4151e744108c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201 Master/Cloud Native Development/Project/Pitch.md",
+                "file": "301 CEHv13/Module 19 (Cloud Computing)/AWS Hacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch"
+              "title": "AWS Hacking"
             }
           },
           {
-            "id": "db247685380cf29a",
+            "id": "571d0a34898aa04f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
+                "file": "201 Master/Entrepreneurship/Prüfung/BMC Leistungspaket (Value Propositions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guest Lecture on WiFi (4) - Security"
+              "title": "BMC Leistungspaket (Value Propositions)"
+            }
+          },
+          {
+            "id": "4faff55d41688899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/4 Prozesssicht/4a Grundlagen der Prozesssicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4a Grundlagen der Prozesssicht"
+            }
+          },
+          {
+            "id": "ae844ccb04ec96bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "201 Master/Entrepreneurship/Orga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orga"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -74,7 +102,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -83,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:dns_spoofing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +146,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph-Ansicht"
             }
           }
         ]
@@ -190,23 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guest Lecture on WiFi (4) - Security"
-            }
-          },
-          {
-            "id": "ab6c81fe8cccaa49",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Gliederung"
             }
           }
         ],
@@ -231,73 +248,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false,
       "janitor:Janitor: scan vault": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "db247685380cf29a",
+  "active": "1f6c9200ce883147",
   "lastOpenFiles": [
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (3) - MAC Layer.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (2) - PHY Layer.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (1) - Architecture.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 5 - Cellular Networks.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 1 - Basics.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 2 - Security.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 3 - Security Architectures.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Chapter 4 - BGP Security.md",
-    "201 Master/Sicherheit Moderner Netze/Notes/OPNFV Talk.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/WiFi Q&A.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on WiFi (4) - Security.md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary/Guest Lecture on Network Function Virtualization (NFV).md",
-    "201 Master/Sicherheit Moderner Netze/Exam Summary",
-    "201 Master/Cloud Native Development/Project/Focus Service.md",
-    "201 Master/ProjektInternetMeasurements/DNS.md",
-    "300 Summaries/Ops/Kubernetes/Gateway API.md",
-    "201 Master/ProjektInternetMeasurements/Docs/Frontend.md",
-    "201 Master/ProjektInternetMeasurements/Docs/Architecture.md",
-    "300 Summaries/Frameworks/Quarkus/05 Configuration.md",
-    "201 Master/ProjektInternetMeasurements/Docs/Auth.md",
-    "201 Master/ProjektInternetMeasurements/Docs/AuthFlow.md",
-    "201 Master/ProjektInternetMeasurements/3.11..md",
-    "201 Master/ProjektInternetMeasurements/Docs",
-    "201 Master/ProjektInternetMeasurements/Creds.md",
-    "201 Master/ProjektInternetMeasurements/API Schema Notes.md",
-    "201 Master/ProjektInternetMeasurements/24.11..md",
-    "400 Work/Pact.md",
-    "201 Master/IT Consulting/Vorlesung/1 - Einführung (TODO).md",
-    "400 Work",
-    "Attachments/Pasted image 20260109012726.png",
-    "Attachments/Pasted image 20260109012657.png",
-    "Attachments/Pasted image 20260109012615.png",
-    "Attachments/Pasted image 20260109012549.png",
-    "Attachments/Pasted image 20260109012414.png",
-    "Attachments/Pasted image 20260109012121.png",
-    "Attachments/Pasted image 20260109011955.png",
-    "Attachments/Pasted image 20260109011921.png",
-    "Attachments/Pasted image 20260109011642.png",
-    "201 Master/Big Data/Lecture/Data Management (Cato)",
-    "Attachments/Pasted image 20260109010443.png",
-    "300 Summaries/Testing",
-    "300 Summaries/Ops/Kubernetes",
-    "000 Private/Config",
-    "000 Private/Firmen",
-    "000 Private",
-    "300 Summaries/Languages/Java"
+    "400 Work/Baustein Logging.md",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/4 Prozesssicht/4a Grundlagen der Prozesssicht.md",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/3 Struktursicht/3d Container und Dependency Injection.md",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/4 Prozesssicht",
+    "Attachments/Pasted image 20260429162307.png",
+    "Attachments/Pasted image 20260429161327.png",
+    "Attachments/Pasted image 20260429161258.png",
+    "Attachments/Pasted image 20260429160654.png",
+    "Attachments/Pasted image 20260429151231.png",
+    "Attachments/Pasted image 20260429151137.png",
+    "Attachments/Pasted image 20260429151032.png",
+    "Attachments/Pasted image 20260429150624.png",
+    "Attachments/Pasted image 20260429150551.png",
+    "Attachments/Pasted image 20260429150507.png",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/3 Struktursicht",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/2 Grundlagen",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/1 Einführung und Motivation",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/3 Struktursicht/3c Software Kategorien in Standardarchitekturen.md",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/3 Struktursicht/3b Komponentenarchitektur mit  Quasar.md",
+    "201 Master/Security Engineering in der IT/Vorlesung/2. Security Engineering Prozess.md",
+    "000 Private/Auto/EQ.md",
+    "000 Private/Notizen/Filme.md",
+    "201 Master/Entrepreneurship/Prüfung/BMC/Schlüsselressourcen (Key Resources).md",
+    "201 Master/Entrepreneurship/Prüfung/BMC/Leistungspaket (Value Propositions).md",
+    "201 Master/Security Engineering in der IT/Vorlesung/3. Security Architecture.md",
+    "201 Master/Entrepreneurship/Prüfung/BMC/Schlüsselaktivitäten (Key Activities).md",
+    "201 Master/Architektur- und Entwurfsmuster der Softwaretechnik/Vorlesung/3 Struktursicht/3a Komponentenarchitektur.md",
+    "201 Master/Entrepreneurship/Prüfung/BMC",
+    "000 Private/Notizen",
+    "201 Master/Entrepreneurship/Orga.md",
+    "201 Master/Entrepreneurship/Prüfung/Aufgabenverteilung.md",
+    "201 Master/Entrepreneurship/Prüfung/BMC Leistungspaket (Value Propositions).md",
+    "301 CEHv13/Module 19 (Cloud Computing)/AWS Hacking.md",
+    "301 CEHv13/Module 17 (Hacking Mobile Platforms)/Android Threats.md",
+    "000 Private/Geschenkideen/Verena.md",
+    "Work notes.md",
+    "000 Private/Misc/Philipe Vorfall.md",
+    "000 Private/Filme/Watchlist.md",
+    "000 Private/Misc",
+    "000 Private/Filme/Kino.md",
+    "301 CEHv13/Board/Current (Cleanup).md",
+    "000 Private/Filme",
+    "000 Private/Geschenkideen",
+    "201 Master/Security Engineering in der IT/Vorlesung/1. Motivation und Ziele der Cybersicherheit.md",
+    "201 Master/Security Engineering in der IT/Vorlesung",
+    "301 CEHv13/Module 16 (Hacking Wireless Networks)/Wireless Concepts.md"
   ]
 }

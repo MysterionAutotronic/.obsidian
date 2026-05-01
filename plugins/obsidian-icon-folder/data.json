@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTriangle",
+      "⚛",
+      "LiLeaf",
       "LiTestTubeDiagonal",
-      "LiRouter",
-      "LiShipWheel",
-      "LiClipboard",
-      "🐋"
+      "LiRouter"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,8 @@
   "300 Summaries/Ops/Dockerfile.md": "🐋",
   "000 Private": "LiClipboard",
   "300 Summaries/Ops/Kubernetes": "LiShipWheel",
-  "300 Summaries/Ops/Kubernetes/Gateway API.md": "LiRouter"
+  "300 Summaries/Ops/Kubernetes/Gateway API.md": "LiRouter",
+  "300 Summaries/Frameworks/Spring Boot": "LiLeaf",
+  "300 Summaries/Frameworks/Quarkus": "⚛",
+  "300 Summaries/Frameworks/Angular.md": "LiTriangle"
 }
